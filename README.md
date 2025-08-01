@@ -4,17 +4,24 @@
 
 ![Fadeveil Badge](https://img.shields.io/badge/Project-Fadeveil-blueviolet)
 
-**Team Members:**  
-- T A Asma (21CSA64)  
+**Team Members:**
+
+- T A Asma (21CSA64)
+- Amal S (21CSA66) 
 - Gokul Gopi (21CSA68)  
 - Manikandan S (21CSA69)  
-- Amal S (21CSA66)  
 
 **Institution:**  
 Department of Computer Engineering  
 Model Engineering College, Thrikkakara  
 APJ Abdul Kalam Technological University  
 📅 April 2025
+
+
+## 📄 Research Paper
+
+You can access the full research paper for this project here:  
+🔗 [View FADEVEIL Research Paper](https://drive.google.com/file/d/1zejqUl4zRSvkBvhzyOiliA__-gN_E7x2/view)
 
 ---
 
@@ -121,9 +128,10 @@ Incident Responder	View active threats, apply decryption, manage incident files
 
 
 📊 Project Results
+✅ Successfully decrypted multiple ransomware-encrypted files.
+📂 Accurately identified file types using MIME and entropy.
+🖥️ GUI enabled seamless interaction for researchers and responders.
+⏱️ Achieved analysis time within 10 minutes per folder.
 
-Successfully decrypted multiple ransomware-encrypted files.
-Accurately identified file types using MIME and entropy.
-GUI enabled seamless interaction for researchers and responders.
-Achieved analysis time within 10 minutes per folder.
+
 
