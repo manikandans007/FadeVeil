@@ -1,0 +1,52 @@
+[
+    {
+        "name": "1743664444469-audio_sample.mp3.wcry",
+        "size": "208624 Bytes",
+        "extension": ".wcry",
+        "mimeType": "application/octet-stream",
+        "entropy": 8.0,
+        "ransomware": "WannaCry",
+        "encryption": "AES-128 + RSA-2048",
+        "isEncrypted": "Yes"
+    },
+    {
+        "name": "1743664444477-image_sample.jpg.wcry",
+        "size": "809680 Bytes",
+        "extension": ".wcry",
+        "mimeType": "application/octet-stream",
+        "entropy": 8.0,
+        "ransomware": "WannaCry",
+        "encryption": "AES-128 + RSA-2048",
+        "isEncrypted": "Yes"
+    },
+    {
+        "name": "1743664444492-text1.txt.wcry",
+        "size": "64 Bytes",
+        "extension": ".wcry",
+        "mimeType": "application/octet-stream",
+        "entropy": 5.66,
+        "ransomware": "WannaCry",
+        "encryption": "AES-128 + RSA-2048",
+        "isEncrypted": "Yes"
+    },
+    {
+        "name": "1743664444493-Video_sample.mp4.wcry",
+        "size": "25937008 Bytes",
+        "extension": ".wcry",
+        "mimeType": "application/octet-stream",
+        "entropy": 8.0,
+        "ransomware": "WannaCry",
+        "encryption": "AES-128 + RSA-2048",
+        "isEncrypted": "Yes"
+    },
+    {
+        "name": "1743664481164-id card mec.pdf",
+        "size": "525578 Bytes",
+        "extension": ".pdf",
+        "mimeType": "application/pdf",
+        "entropy": 7.95,
+        "ransomware": "Not Harmful",
+        "encryption": "Not Encrypted",
+        "isEncrypted": "No"
+    }
+]
