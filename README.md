@@ -127,11 +127,13 @@ Incident Responder	View active threats, apply decryption, manage incident files
 | System testing (end-to-end)                 | ✅ PASS     |
 
 
-📊 Project Results
-✅ Successfully decrypted multiple ransomware-encrypted files.
-📂 Accurately identified file types using MIME and entropy.
-🖥️ GUI enabled seamless interaction for researchers and responders.
-⏱️ Achieved analysis time within 10 minutes per folder.
+### 📊 Project Results
+
+- ✅ Successfully decrypted multiple ransomware-encrypted files.
+- 📂 Accurately identified file types using MIME and entropy.
+- 🖥️ GUI enabled seamless interaction for researchers and responders.
+- ⏱️ Achieved analysis time within 10 minutes per folder.
+
 
 
 
