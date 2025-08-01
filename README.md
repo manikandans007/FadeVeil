@@ -54,17 +54,7 @@ APJ Abdul Kalam Technological University
 
 ---
 
-## 📂 Folder Structure
-
-FadeVeil/
-├── Backend/ # Python scripts for encryption, decryption, analysis
-├── Frontend/ # React.js frontend
-├── package.json # Node.js backend dependencies
-└── README.md # This file
-
-yaml
-Copy
-Edit
+<pre> ## 📂 Folder Structure ``` FadeVeil/ ├── Backend/ # Python scripts for encryption, decryption, analysis ├── Frontend/ # React.js frontend ├── package.json # Node.js backend dependencies └── README.md # This file ``` </pre>
 
 ---
 
@@ -89,16 +79,17 @@ pip install -r requirements.txt
 cd ../Frontend
 npm install
 npm run dev
+```
+
+
 🔄 Ransomware Simulation Flow
+
 Place files in the TARGET_FOLDER.
-
 Run the ransomware encryption script (Python).
-
 Upload the encrypted files via the React GUI.
-
 View the analysis and decryption report.
-
 Download recovered files (if decryption successful).
+
 
 👨‍💻 User Roles
 
@@ -115,15 +106,19 @@ Incident Responder	View active threats, apply decryption, manage incident files
 🔐 Authentication: JWT-based login with role-based access.
 ✅ Testing Results
 
-Test Case	Status
-Detect encrypted files	✅ PASS
-Identify ransomware extensions	✅ PASS
-Calculate entropy	✅ PASS
-AES key decryption	✅ PASS
-Decrypt multiple files with multiprocessing	✅ PASS
-File integrity after decryption	✅ PASS
-Role-based login and access	✅ PASS
-System testing (end-to-end)	✅ PASS
+### ✅ Testing Results
+
+| **Test Case**                               | **Status** |
+| ------------------------------------------- | ---------- |
+| Detect encrypted files                      | ✅ PASS     |
+| Identify ransomware extensions              | ✅ PASS     |
+| Calculate entropy                           | ✅ PASS     |
+| AES key decryption                          | ✅ PASS     |
+| Decrypt multiple files with multiprocessing | ✅ PASS     |
+| File integrity after decryption             | ✅ PASS     |
+| Role-based login and access                 | ✅ PASS     |
+| System testing (end-to-end)                 | ✅ PASS     |
+
 
 📊 Project Results
 
