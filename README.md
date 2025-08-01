@@ -101,22 +101,20 @@ View the analysis and decryption report.
 Download recovered files (if decryption successful).
 
 👨‍💻 User Roles
-Role	Description
+
+### Role	Description
 Cyber Researcher	Upload encrypted files, analyze encryption patterns, download decrypted files
 Incident Responder	View active threats, apply decryption, manage incident files
 
 ⚙️ Functional Modules
+
 📁 Static Analysis: Examines file entropy, extensions, and MIME types.
-
 🔑 RSA-AES Decryption: Hybrid key decryption for secure recovery.
-
 🔄 Automated Scanning: Recursively scans directories.
-
 📋 Logging & Notifications: Displays scan and decryption results.
-
 🔐 Authentication: JWT-based login with role-based access.
-
 ✅ Testing Results
+
 Test Case	Status
 Detect encrypted files	✅ PASS
 Identify ransomware extensions	✅ PASS
@@ -128,11 +126,9 @@ Role-based login and access	✅ PASS
 System testing (end-to-end)	✅ PASS
 
 📊 Project Results
+
 Successfully decrypted multiple ransomware-encrypted files.
-
 Accurately identified file types using MIME and entropy.
-
 GUI enabled seamless interaction for researchers and responders.
-
 Achieved analysis time within 10 minutes per folder.
 
